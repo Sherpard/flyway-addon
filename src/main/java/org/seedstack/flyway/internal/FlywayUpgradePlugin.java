@@ -14,7 +14,6 @@ import java.util.Optional;
 
 import org.flywaydb.core.Flyway;
 import org.flywaydb.core.api.Location;
-import org.flywaydb.core.internal.scanner.Scanner;
 import org.seedstack.flyway.FlywayConfig;
 import org.seedstack.flyway.FlywayConfig.DataSourceConfig;
 import org.seedstack.flyway.spi.FlywayProvider;

@@ -9,8 +9,6 @@ package db.migration.datasource5;
 
 import org.flywaydb.core.api.migration.BaseJavaMigration;
 import org.flywaydb.core.api.migration.Context;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 public class R__DiscoveredJavaMigration extends BaseJavaMigration {
 
